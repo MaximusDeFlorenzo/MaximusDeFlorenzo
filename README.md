@@ -9,7 +9,7 @@ Backend Engineer • System Architect • Automation Builder
 
 ---
 
-## 🧠 About Me (YAML Style)
+## 🧠 About Me
 
 ```yaml
 name: Maximus De Florenzo
@@ -33,56 +33,56 @@ mindset:
   - "Automate everything possible"
   - "Production first, always"
 ````
-🚀 What I Do
 
-  🧩 Backend Architecture & System Design
-  ⚡ Scalable API Development (REST / GraphQL)
-  🤖 Workflow Automation (n8n, event-driven systems)
-  💳 Payment Integration (Xendit, iPaymu)
-  🔄 Real-time Systems (WebSocket, MQTT)
-  ☁️ Infrastructure & Deployment (Proxmox, MinIO)
-
-🛠 Tech Stack
+## 🛠 Tech Stack
 Backend
-<p> <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,graphql" /> </p>
 Frontend & Mobile
-<p> <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,redux" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,flutter" /> </p>
 Database
 <p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,redis" /> </p>
 DevOps & Tools
 <p> <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,postman" /> </p>
-Infra & Automation
-<p> <img src="https://skillicons.dev/icons?i=linux,bash" /> </p>
+Automation
+<p> <img height="20" src="https://cdn.simpleicons.org/n8n?viewbox=auto" /> </p>
 
-📊 Most Used Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximusDeFlorenzo&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+<br>
 
-💼 Experience Snapshot
-🏢 PT Solnet Indonesia
+## 📊 Analytics
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MaximusDeFlorenzo&layout=compact&theme=tokyonight&hide_border=true"/>
+  
+  <img height="180em" src="https://streak-stats.demolab.com?user=MaximusDeFlorenzo&theme=tokyonight&hide_border=true"/>
+</p>
 
-Backend Engineer (Sole Engineer)
+<br>
 
-Designed scalable backend architecture (NestJS, GraphQL)
+## 💼 Experience Snapshot
+### 🏢 PT Solnet Indonesia 
+
+<p> Backend Engineer (Sole Engineer)</p>
+
+<p> Designed scalable backend architecture (NestJS, GraphQL)
 Built automation pipelines using n8n
 Integrated Xendit payment system
-Managed production reliability independently
-🎓 Skildev Akademi
+Managed production reliability independently</p>
 
-Backend Mentor
+### 🎓 Skildev Akademi
+<p> Backend Mentor </p>
 
-Mentoring Node.js & NestJS developers
+<p> Mentoring Node.js & NestJS developers
 Teaching system design & API architecture
-Conducting code reviews
-🚀 Featured Projects
-🧠 EduMentor → Real-time mentoring system (NestJS, GraphQL, WebSocket, LLM)
-📡 IoT Lab System → MQTT-based real-time monitoring system
-⚙️ Automation Engine → n8n workflow orchestration system
-🎤 Community
-Workshop Speaker — BatamDev x Skildev 2026
-Built AI Email Assistant using:
-n8n + Gmail API + LLM + Telegram Bot
-🌗 Connect With Me
-<p> <a href="mailto:maximusflorenzo@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/maximus-de-florenzo-811706297"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
-<p align="center"> ⚙️ "I don’t just build backend systems — I build systems that run businesses." </p> <!-- FOOTER --> 
+Conducting code reviews</p>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/> </p> ```
+### 🎤 Community
+<p> Workshop Speaker — BatamDev x Skildev 2026
+Built AI Email Assistant using:
+n8n + Gmail API + LLM + Telegram Bot </p>
+
+<br>
+
+## 🌗 Connect With Me
+<p> <a href="mailto:maximusflorenzo@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/maximus-de-florenzo-811706297"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+<p align="center"> ⚙️ "I don’t just build backend systems — I build systems that run businesses." </p>
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/> </p>
