@@ -1,167 +1,88 @@
-# 👋 Hi, I'm Maximus De Florenzo
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Maximus%20De%20Florenzo&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-🚀 Backend Engineer | Automation Architect | System Designer  
-📍 Based in Southeast Asia | 🌏 Building scalable backend systems for real-world impact
-
----
-
-## 🧠 About Me
-
-I am a **Backend Engineer with production-level experience building, owning, and scaling backend systems end-to-end**.
-
-Currently working as the **sole Backend Engineer at PT Solnet Indonesia**, where I design system architecture, build APIs, manage automation workflows, and ensure production reliability.
-
-I specialize in:
-
-- Scalable backend architecture
-- Automation-driven systems
-- Payment gateway integrations
-- Real-time & event-driven systems
-- Production system ownership
-
-I enjoy building systems that **remove manual work, scale efficiently, and run reliably in production**.
+<p align="center">
+Backend Engineer • System Architect • Automation Builder
+</p>
 
 ---
 
-## 🏢 Professional Experience
+## 🧠 About Me (YAML Style)
 
-### 🏢 PT Solnet Indonesia — *Backend Engineer (Sole Engineer)*  
-📅 07/2025 – Present  
+```yaml
+name: Maximus De Florenzo
+role: Backend Engineer
+location: Southeast Asia
+focus:
+  - Backend Architecture
+  - System Design
+  - Automation Engineering
+  - Real-time Systems
+current_role:
+  company: PT Solnet Indonesia
+  position: Sole Backend Engineer
+  responsibilities:
+    - API & System Architecture
+    - Payment Integration (Xendit)
+    - Workflow Automation (n8n)
+    - Infrastructure & Production Reliability
+mindset:
+  - "Build systems that scale, not just features"
+  - "Automate everything possible"
+  - "Production first, always"
+````
+🚀 What I Do
 
-Responsible for full backend ownership: architecture, development, deployment, and production reliability.
+  🧩 Backend Architecture & System Design
+  ⚡ Scalable API Development (REST / GraphQL)
+  🤖 Workflow Automation (n8n, event-driven systems)
+  💳 Payment Integration (Xendit, iPaymu)
+  🔄 Real-time Systems (WebSocket, MQTT)
+  ☁️ Infrastructure & Deployment (Proxmox, MinIO)
 
-**Key Contributions:**
-- Designed scalable backend architecture (API design, caching, workflow systems)
-- Built GraphQL APIs and background services using **NestJS, Redis, MongoDB**
-- Implemented automation workflows using **n8n**
-- Integrated **Xendit payment gateway** (billing, invoices, transactions)
-- Built MFA authentication & RBAC authorization systems
-- Automated VM management via **Proxmox API**
-- Managed object storage using **MinIO (S3-compatible)**
-- Handled production incidents, performance tuning, and deployment independently
+🛠 Tech Stack
+Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel" /> </p>
+Frontend & Mobile
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,redux" /> </p>
+Database
+<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,redis" /> </p>
+DevOps & Tools
+<p> <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,postman" /> </p>
+Infra & Automation
+<p> <img src="https://skillicons.dev/icons?i=linux,bash" /> </p>
 
-**Impact:**
-- Replaced manual operations with automated workflows, reducing operational overhead
-- Delivered a stable production system fully managed by a single engineer
-- Improved system scalability and reliability under production load
+📊 Most Used Languages
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximusDeFlorenzo&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 
----
+💼 Experience Snapshot
+🏢 PT Solnet Indonesia
 
-### 🎓 PT Skildev Akademi Indonesia — *Backend Mentor*  
-📅 01/2026 – Present  
+Backend Engineer (Sole Engineer)
 
-Mentoring developers in real-world backend engineering.
+Designed scalable backend architecture (NestJS, GraphQL)
+Built automation pipelines using n8n
+Integrated Xendit payment system
+Managed production reliability independently
+🎓 Skildev Akademi
 
-- Teaching Node.js, NestJS, and automation (n8n)
-- Guiding system design and scalable API architecture
-- Conducting code reviews and debugging sessions
-- Helping mentees build production-ready backend projects
+Backend Mentor
 
-**Impact:**
-- Accelerated developer readiness for real-world backend roles
-- Improved understanding of scalable system design
+Mentoring Node.js & NestJS developers
+Teaching system design & API architecture
+Conducting code reviews
+🚀 Featured Projects
+🧠 EduMentor → Real-time mentoring system (NestJS, GraphQL, WebSocket, LLM)
+📡 IoT Lab System → MQTT-based real-time monitoring system
+⚙️ Automation Engine → n8n workflow orchestration system
+🎤 Community
+Workshop Speaker — BatamDev x Skildev 2026
+Built AI Email Assistant using:
+n8n + Gmail API + LLM + Telegram Bot
+🌗 Connect With Me
+<p> <a href="mailto:maximusflorenzo@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/maximus-de-florenzo-811706297"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+<p align="center"> ⚙️ "I don’t just build backend systems — I build systems that run businesses." </p> <!-- FOOTER --> 
 
----
-
-### 🏢 PT EZB Wisata Indonesia — *Backend Engineer*  
-📅 01/2024 – 07/2025  
-
-- Built backend services using **Laravel + MySQL**
-- Designed and improved backend modules
-- Resolved performance bottlenecks and production bugs
-- Worked in agile cross-functional teams
-
-**Impact:**
-- Improved system stability and API performance
-- Accelerated feature delivery through cleaner backend architecture
-
----
-
-### 🌐 Freelance Projects
-
-#### 🏨 Batam Pesona Wisata Indonesia — Backend Engineer  
-- Built booking system backend (users, rooms, reservations)
-- Developed REST APIs for authentication and booking flows
-- Integrated secure payment gateway
-
-#### 📡 Hang Media — Backend Engineer  
-- Integrated **Xendit & iPaymu payment systems**
-- Built dynamic backend driven by frontend payloads
-- Implemented automated email notifications
-
-#### 🍔 PT Herdiandra Food Indonesia — Fullstack Engineer  
-- Built MERN stack applications
-- Integrated multi-channel payments (Xendit)
-- Developed optimized REST APIs
-
----
-
-## 🎤 Community & Speaking
-
-### 🧑‍🏫 Workshop Speaker — BatamDev x Skildev (2026)
-
-- Built AI Email Assistant using **n8n, Gmail API, LLMs, Telegram Bots**
-- Demonstrated automation-first backend workflows
-- Delivered live system design and automation session
-
----
-
-## 🚀 Featured Projects
-
-- **EduMentor** — Real-time mentoring platform  
-  _NestJS, GraphQL, WebSocket, LLM (Groq)_
-
-- **IoT Lab Availability System**  
-  _MQTT-based real-time monitoring system_
-
----
-
-## ⚙️ Tech Stack
-
-**Languages:**  
-JavaScript, TypeScript, PHP, SQL, Dart  
-
-**Backend:**  
-NestJS, Node.js, Express, Laravel  
-
-**Frontend & Mobile:**  
-React.js, Next.js, Flutter, Expo  
-
-**Databases:**  
-MongoDB, MySQL, Firebase  
-
-**Automation & Integrations:**  
-n8n, Xendit, iPaymu, Gmail API  
-
-**Real-time Systems:**  
-WebSocket, MQTT  
-
-**Infrastructure & Tools:**  
-Redis, MinIO, Proxmox, Git, GitHub, GitLab, Postman, Figma  
-
----
-
-## 🔐 Core Strengths
-
-- Backend system ownership (end-to-end)
-- Automation-driven architecture
-- Payment system integration
-- Real-time system design
-- Scalable API development
-- Production incident handling
-
----
-
-## 📫 Contact
-
-📧 Email: maximusflorenzo@gmail.com  
-📱 Phone: +62 895-4031-53290  
-🔗 LinkedIn: linkedin.com/in/maximus-de-florenzo-811706297  
-
----
-
-## 🧭 Philosophy
-
-> "I don’t just build APIs — I build systems that run businesses."
-
----
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/> </p> ```
