@@ -50,9 +50,9 @@ Automation
 
 ## 📊 Analytics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MaximusDeFlorenzo&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MaximusDeFlorenzo&layout=compact&theme=tokyonight&hide_border=true"/>
   
-  <img height="180em" src="https://streak-stats.demolab.com?user=MaximusDeFlorenzo&theme=tokyonight&hide_border=true"/>
+  <img height="150em" src="https://streak-stats.demolab.com?user=MaximusDeFlorenzo&theme=tokyonight&hide_border=true"/>
 </p>
 
 <br>
